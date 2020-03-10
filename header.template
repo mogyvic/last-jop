@@ -1,7 +1,7 @@
 
 <nav id=menu-header class="navbar navbar-expand-lg navbar-light bg-light">
-	<a class="navbar-brand" href="https://Mogyvic.github.io">
-		<img class="img-fluid mr-1" style="width: 2em; height: 2em" src=https://nguyenthanh1995.github.io/CydiaIcon.png />
+	<a class="navbar-brand" href="https://mogyvic.github.io/Repo/">
+		<img class="img-fluid mr-1" style="width: 2em; height: 2em" src=https://mogyvic.github.io/Repo//CydiaIcon.png />
 	</a>
 	<button class="navbar-toggler menu-btn" data-toggle="collapse" data-target="#menu-open">
 		<span class="navbar-toggler-icon"></span>
@@ -74,7 +74,7 @@
 		</form>
 		<hr class="my-1 d-lg-none d-xl-none">
 		<div class="my-2 my-lg-0">
-			<a target=_blank href="https://www.facebook.com/profile.php?id=100024588752208" class="social"><i class="fab fa-facebook-square"></i></a>
+			<a target=_blank href="https://www.facebook.com/mogyvic" class="social"><i class="fab fa-facebook-square"></i></a>
 			<a target=_blank href="https://twitter.com/Mogyvic" class="social"><i class="fab fa-twitter"></i></a>
 			<a target=_blank href="https://www.instagram.com/mogyvic" class="social"><i class="fab fa-instagram"></i></a>
 			<!--<i class="fab fa-facebook-messenger social"></i>-->
